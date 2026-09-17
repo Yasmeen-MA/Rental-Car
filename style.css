@@ -1,9 +1,9 @@
 body {
-  background-image: url('img/orange-background.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
+  background-image: url('img/orange-background.jpg') !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-attachment: fixed !important;
 }
 h3{
      color:rgb(73, 13, 130) !important; 
